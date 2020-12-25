@@ -2,7 +2,7 @@
 
 The main business objectives are to understand the dynamics of the labor market of Armenia using the online job portal post as a proxy. A secondary objective is to implement advanced text analytics as a proof of concept to create additional features.
  
-# Business questions to our business objectives with a graph or table as an analysis:
+# Analysis:
 
 - **Job Nature and Company Profiles** : What are the types of jobs that are in demand in Armenia? How are the job natures changing over time?
 
