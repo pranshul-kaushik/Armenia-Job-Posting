@@ -12,10 +12,10 @@ The main business objectives are to understand the dynamics of the labor market 
 
 ![](analysis_graphs/skills.png)
 
-- **IT  Job Classification** : Build  a  classifier  that  can  tell  us  from  the  job  description  and  company description whether a job is IT or not, so that this column can be automatically populated for new job postings. After doing so, understand what important factors are which drives this classification.
+- **IT  Job Classification** : Building  a  classifier  that  can  tell  us  from  the  job  description  and  company description whether a job is IT or not, so that this column can be automatically populated for new job postings. After doing so.
 
 ![](analysis_graphs/Hiplot_Gridsearch.png)
 
-- **Similarity of Jobs** : Given a job title, find the 5 top jobs that are of a similar nature, based on the job post.
+- **Similarity of Jobs** : Given a job title, find top jobs that are of a similar nature, based on the job post.
 
 ![](analysis_graphs/Similar.png)
