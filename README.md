@@ -6,7 +6,7 @@ Our main business objectives are to understand the dynamics of the labor market 
 
 - **Job Nature and Company Profiles** : What are the types of jobs that are in demand in Armenia? How are the job natures changing over time?
 
-![](analysis_graphs\Jobs_demand.png)
+![](analysis_graphs/Jobs_demand.png)
 
 
 - **Desired Characteristics and Skill-Sets** : What are the desired characteristics and skill-set of the candidates based on the job description dataset? How these are desired characteristics changing over time?
