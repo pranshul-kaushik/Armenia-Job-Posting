@@ -12,7 +12,9 @@ The main business objectives are to understand the dynamics of the labor market 
 
 ![](analysis_graphs/skills.png)
 
-- **IT  Job Classification** : Building  a  classifier  that  can  tell  us  from  the  job  description  and  company description whether a job is IT or not, so that this column can be automatically populated for new job postings. After doing so.
+- **IT  Job Classification** : Building  a  classifier  that  can  tell  us  from  the  job  description  and  company description whether a job is IT or not, so that this column can be automatically populated for new job postings.
+
+**Repository is attached with _summary.html_ which is a intractive result of the Gridsearch and score of each models** _Check that out for better look_
 
 ![](analysis_graphs/Hiplot_Gridsearch.png)
 
